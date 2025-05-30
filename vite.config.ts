@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/split-duo-reveal/',
+  base: '/Blood-Donation-Support-System/',
   server: {
     host: "::",
     port: 8080,
